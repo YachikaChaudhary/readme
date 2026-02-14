@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yachika Chaudhary</h1>
-<h3 align="center">A passionate Graphic Designer | HTML | CSS | IT Enthusiast from India</h3>
+<h3 align="center">A passionate Graphic Designer | Web development | IT Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yachikachaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="yachikachaudhary" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/yachika07" target="blank"><img src="https://img.shields.io/twitter/follow/yachika07?logo=twitter&style=for-the-badge" alt="yachika07" /></a> </p>
 
-- 🌱 I’m currently learning **Web Designing | Web Development | linux**
+- 🌱 I’m currently learning **Web Designing | Web Development | Java **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
