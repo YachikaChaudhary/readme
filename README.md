@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/yachika07" target="blank"><img src="https://img.shields.io/twitter/follow/yachika07?logo=twitter&style=for-the-badge" alt="yachika07" /></a> </p>
 
-- 🌱 I’m currently learning **Web Designing | Web Development | Java **
+- 🌱 I’m currently learning ** Web Development | Java | Python | Networking **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
